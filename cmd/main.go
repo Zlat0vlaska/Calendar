@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Zlat0vlaska/Calendar/internal/handler"
-	"github.com/Zlat0vlaska/Calendar/internal/repository"
-	"github.com/Zlat0vlaska/Calendar/internal/service"
+	"project/calendar-app/internal/service"
+	"project/internal/handler"
+	"project/internal/repository"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )
