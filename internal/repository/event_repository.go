@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"../domain"
+	"github.com/Zlat0vlaska/Calendar/internal/domain"
 	"gorm.io/gorm"
 )
 
